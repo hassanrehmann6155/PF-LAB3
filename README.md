@@ -2,8 +2,8 @@
 
 # Programming Fundamentals Lab – Spring 2026
 
-**Name:** Your Name  
-**Roll Number:** 24K-XXXX  
+**Name:** Hassan Rehman
+**Roll Number:** 24K-6155  
 
 ## Lab Objectives
 - Learn GitHub basics
